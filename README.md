@@ -11,8 +11,6 @@ This is a simple backend application for a flight booking system, built with Nod
   - [Flights](#flights)
   - [Bookings](#bookings)
 - [Data Structures](#data-structures)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
